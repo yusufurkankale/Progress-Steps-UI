@@ -13,7 +13,7 @@ Bu proje, adım adım ilerlemeyi görselleştiren interaktif bir kullanıcı ara
 
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 
 ## 🖼️ Ekran Görüntüsü
 
@@ -24,6 +24,6 @@ Bu proje, adım adım ilerlemeyi görselleştiren interaktif bir kullanıcı ara
 Projeyi kendi bilgisayarında çalıştırmak için:
 
 ```bash
-git clone https://github.com/kullaniciadi/progress-steps-ui.git
+git clone https://github.com/yusufurkankale/progress-steps-ui.git
 cd progress-steps-ui
 index.html dosyasını tarayıcıda aç
